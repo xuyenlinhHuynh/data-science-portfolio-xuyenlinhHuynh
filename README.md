@@ -1,8 +1,12 @@
 # Data Science Portfolio
 Student Name: Xuyen Linh Huynh
+
 Student ID: 45731314
+
 Unit: COMP2200 -- Data Science
+
 Project: This project is the portfolio tasks for data science/data analysis, which consists of three tasks:
+
 - First Portfolio: 
     * Dataset Description: The datasets used in this task is about cycling, with some relevant fields (variables) such as speed, distance, etc. The most 
                     noticeable fields would be cadence which would be used to calculate the development (gear usage element).
